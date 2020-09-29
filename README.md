@@ -1,2 +1,2 @@
 # multiFactor2_Barra
-Hi! We are one of the learning teams of QTA from PHBS. In this repository, we will build a multifactor model with Barra. Let's study together~
+Hello everyone. We are one of the learning teams of QTA which is a student organization of PHBS aiming to provide a professional platform for academic exchanges, resource sharing, and personal inheritance for members who are interested in quantitative work. In this repository, we will spend this semester building the framework of multifactor model of Barra. We hope at the end of this period, we can use our model to choose stocks and set the portfolio given a set of data of factors and stocks. Let's study together~
