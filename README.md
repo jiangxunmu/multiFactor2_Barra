@@ -4,3 +4,5 @@ Hello everyone. We are one of the learning teams of QTA which is a student organ
 [会议记录](https://docs.qq.com/doc/DZExDb015eUthZEpP?createTS=1601957812333&templateId=31227)
 
 [工作计划](https://docs.qq.com/sheet/DZFNYbWpBVlZVbmVI?createTS=1601957602382&templateId=20001&tab=igiics)
+
+[数据整理](https://docs.qq.com/sheet/DSnhmcnZtV2FkZlVx)
